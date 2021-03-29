@@ -99,7 +99,7 @@ PyGetWindow==0.0.7
 PyGithub==1.40
 pyglet==1.4.4
 pyglet-ffmpeg2==0.1.15
-Pygments==2.3.1
+Pygments==2.7.4
 PyGObject==3.30.4
 pyinotify==0.9.6
 PyJWT==1.7.0
