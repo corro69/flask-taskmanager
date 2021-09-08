@@ -80,7 +80,7 @@ packaging==19.2
 pandas==0.25.2
 pexpect==4.6.0
 pgzero==1.2
-Pillow==5.4.1
+Pillow==8.3.2
 pipenv==11.9.0
 ply==3.11
 poyo==0.5.0
