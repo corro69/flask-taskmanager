@@ -102,7 +102,7 @@ pyglet-ffmpeg2==0.1.15
 Pygments==2.3.1
 PyGObject==3.30.4
 pyinotify==0.9.6
-PyJWT==1.7.0
+PyJWT==2.4.0
 pylint==2.3.1
 pymap==0.12.2
 PyMsgBox==1.0.7
