@@ -22,7 +22,7 @@ Click==7.0
 cloud-init==18.3
 colorzero==1.1
 configobj==5.0.6
-cookiecutter==1.6.0
+cookiecutter==2.1.1
 cryptography==2.6.1
 cupshelpers==1.0
 devscripts==2.19.5+deb10u1
